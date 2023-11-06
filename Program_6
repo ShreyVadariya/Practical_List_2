@@ -1,6 +1,5 @@
 //Write a C++ program for setfill function.
 
-
 #include <iostream>
 #include <iomanip> 
 using namespace std;
