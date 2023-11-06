@@ -16,4 +16,4 @@ int main()
 	cout<<"Square number is::"<<square(no1);
 	
 	return 0;
-} 
+}
